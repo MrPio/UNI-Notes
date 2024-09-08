@@ -15,12 +15,8 @@ A collection of some notes I've taken during my studies at UnivPM.
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5">2nd</td>
+            <td rowspan="4">2nd</td>
             <td><a href="pdf/FISICA II.pdf">Physics 2</a></td>
-            <td>🇮🇹</td>
-        </tr>
-        <tr>
-            <td><a href="pdf/ING SOFTWARE - Patterns.pdf">Software Engeneering (Patterns)</a></td>
             <td>🇮🇹</td>
         </tr>
         <tr>
