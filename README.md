@@ -1,6 +1,7 @@
 ## UNI-Notes
 A collection of some notes I've taken during my studies at UnivPM.
 
+📙 Bachelor's Degree Course: Computer and Automation Engineering
 📘 Master's Degree Course: Computer and Automation Engineering
 
 ### Notes table
