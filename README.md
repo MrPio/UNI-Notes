@@ -48,7 +48,7 @@ A collection of some notes I've taken during my studies at UnivPM.
             <td>⭐⭐⭐</td>
         </tr>
         <tr>
-            <td rowspan="6">4th</td>
+            <td rowspan="7">4th</td>
             <td><a href="pdf/AI - Programmazione logica.pdf">Logic Programming (First Order Logic)</a></td>
             <td>🇮🇹</td>
             <td>⭐</td>
