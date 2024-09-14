@@ -7,7 +7,7 @@ A collection of some notes I've taken during my studies at UnivPM.
 
 ### Notes table
 
-Note: Quality refers to the completeness of the content, not the quality of the scan.
+*Quality refers to the completeness of the content, not the quality of the scan.*
 
 <table>
     <thead>
