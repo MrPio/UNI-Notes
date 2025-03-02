@@ -1,6 +1,11 @@
 ## UNI-Notes
 A collection of some notes I've taken during my studies at UnivPM.
 
+<p align="center">
+    <img width="600rem" src="https://github.com/user-attachments/assets/45304371-0d9c-42b4-9d2b-878d75c3ae2f"/>
+    <img width="600rem" src="https://github.com/user-attachments/assets/120135b7-5bb0-46e0-96f3-ea9aaff009c0"/>
+</p>
+
 📙 Bachelor's Degree Course: Computer and Automation Engineering
 
 📘 Master's Degree Course: Computer and Automation Engineering
