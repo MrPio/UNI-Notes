@@ -1,5 +1,7 @@
 ## UNI-Notes
-A collection of some notes I've taken during my studies at UnivPM.
+A collection of some notes I've taken during my studies at UnivPM. 
+
+Unfortunately, **the PDFs are encrypted** 'cause I started selling them. If you want to access them, ask me the password (valeriomorelli50@gmail.com).
 
 <p align="center">
     <img width="600rem" src="https://github.com/user-attachments/assets/45304371-0d9c-42b4-9d2b-878d75c3ae2f"/>
